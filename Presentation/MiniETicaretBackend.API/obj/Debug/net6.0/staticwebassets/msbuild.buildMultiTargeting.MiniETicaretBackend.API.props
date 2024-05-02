@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiniETicaretBackend.API.props" />
+</Project>

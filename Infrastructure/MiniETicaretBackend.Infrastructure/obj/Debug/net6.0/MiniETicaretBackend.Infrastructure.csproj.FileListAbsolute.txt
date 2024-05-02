@@ -1,0 +1,17 @@
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Infrastructure.deps.json
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Infrastructure.dll
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Infrastructure.pdb
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Application.dll
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Domain.dll
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Application.pdb
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\bin\Debug\net6.0\MiniETicaretBackend.Domain.pdb
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.AssemblyInfo.cs
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETic.3B9BDC23.Up2Date
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.dll
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\refint\MiniETicaretBackend.Infrastructure.dll
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\MiniETicaretBackend.Infrastructure.pdb
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Infrastructure\obj\Debug\net6.0\ref\MiniETicaretBackend.Infrastructure.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RPZ9uHXAuw0K/dM6u/RJP36uOT4b+/MHBkT6mOGsnSw=",
+  "Source": "MiniETicaretBackend.API",
+  "BasePath": "_content/MiniETicaretBackend.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

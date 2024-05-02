@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\MiniETicaretBackend\\Infrastructure\\MiniETicaretBackend.Infrastructure\\MiniETicaretBackend.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj",
+        "projectName": "MiniETicaretBackend.Application",
+        "projectPath": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj",
+        "packagesPath": "C:\\Users\\arifC\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arifC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Domain\\MiniETicaretBackend.Domain.csproj": {
+                "projectPath": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Domain\\MiniETicaretBackend.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Domain\\MiniETicaretBackend.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Domain\\MiniETicaretBackend.Domain.csproj",
+        "projectName": "MiniETicaretBackend.Domain",
+        "projectPath": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Domain\\MiniETicaretBackend.Domain.csproj",
+        "packagesPath": "C:\\Users\\arifC\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arifC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\MiniETicaretBackend\\Infrastructure\\MiniETicaretBackend.Infrastructure\\MiniETicaretBackend.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\MiniETicaretBackend\\Infrastructure\\MiniETicaretBackend.Infrastructure\\MiniETicaretBackend.Infrastructure.csproj",
+        "projectName": "MiniETicaretBackend.Infrastructure",
+        "projectPath": "D:\\Projects\\MiniETicaretBackend\\Infrastructure\\MiniETicaretBackend.Infrastructure\\MiniETicaretBackend.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\arifC\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\MiniETicaretBackend\\Infrastructure\\MiniETicaretBackend.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arifC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj": {
+                "projectPath": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

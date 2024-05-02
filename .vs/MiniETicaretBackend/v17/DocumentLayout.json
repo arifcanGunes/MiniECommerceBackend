@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MiniETicaretBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CD3A2-31CA-4C98-A960-0F0C945E2558}|Presentation\\MiniETicaretBackend.API\\MiniETicaretBackend.API.csproj|d:\\projects\\minieticaretbackend\\presentation\\minieticaretbackend.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6CD3A2-31CA-4C98-A960-0F0C945E2558}|Presentation\\MiniETicaretBackend.API\\MiniETicaretBackend.API.csproj|solutionrelative:presentation\\minieticaretbackend.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B9C78-0D89-471A-8C81-B259C3EE2BD9}|Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj|d:\\projects\\minieticaretbackend\\core\\minieticaretbackend.application\\requestparameters\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B9C78-0D89-471A-8C81-B259C3EE2BD9}|Core\\MiniETicaretBackend.Application\\MiniETicaretBackend.Application.csproj|solutionrelative:core\\minieticaretbackend.application\\requestparameters\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\RequestParameters\\Pagination.cs",
+              "RelativeDocumentMoniker": "Core\\MiniETicaretBackend.Application\\RequestParameters\\Pagination.cs",
+              "ToolTip": "D:\\Projects\\MiniETicaretBackend\\Core\\MiniETicaretBackend.Application\\RequestParameters\\Pagination.cs",
+              "RelativeToolTip": "Core\\MiniETicaretBackend.Application\\RequestParameters\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:36:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MiniETicaretBackend.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\MiniETicaretBackend.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:33:34.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
