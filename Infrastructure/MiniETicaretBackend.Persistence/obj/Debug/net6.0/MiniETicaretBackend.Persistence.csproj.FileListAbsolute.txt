@@ -17,3 +17,4 @@ D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Persistence\o
 D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Persistence\obj\Debug\net6.0\MiniETicaretBackend.Persistence.pdb
 D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Persistence\obj\Debug\net6.0\MiniETicaretBackend.Persistence.genruntimeconfig.cache
 D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Persistence\obj\Debug\net6.0\ref\MiniETicaretBackend.Persistence.dll
+D:\Projects\MiniETicaretBackend\Infrastructure\MiniETicaretBackend.Persistence\obj\Debug\net6.0\MiniETicaretBackend.Persistence.sourcelink.json

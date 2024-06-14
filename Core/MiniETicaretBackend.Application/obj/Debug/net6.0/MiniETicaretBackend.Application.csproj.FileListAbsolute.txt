@@ -13,3 +13,4 @@ D:\Projects\MiniETicaretBackend\Core\MiniETicaretBackend.Application\bin\Debug\n
 D:\Projects\MiniETicaretBackend\Core\MiniETicaretBackend.Application\bin\Debug\net6.0\MiniETicaretBackend.Domain.pdb
 D:\Projects\MiniETicaretBackend\Core\MiniETicaretBackend.Application\obj\Debug\net6.0\MiniETicaretBackend.Application.csproj.AssemblyReference.cache
 D:\Projects\MiniETicaretBackend\Core\MiniETicaretBackend.Application\obj\Debug\net6.0\MiniETic.5926C4B9.Up2Date
+D:\Projects\MiniETicaretBackend\Core\MiniETicaretBackend.Application\obj\Debug\net6.0\MiniETicaretBackend.Application.sourcelink.json

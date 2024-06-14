@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-2.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-3.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-4.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-5.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-5.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-6.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-7.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-7.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1)-8.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1)-8.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (1).jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (1).jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (2)-2.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (2)-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (2)-3.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (2)-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (2)-4.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (2)-4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (2)-5.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (2)-5.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (2)-6.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (2)-6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir (2).jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir (2).jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir-2.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir-3.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir-4.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir-4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir-5.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir-5.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MiniETicaretBackend\\Presentation\\MiniETicaretBackend.API\\wwwroot\\resource\\product-images\\indir.jpg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\indir.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MiniETicaretBackend.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MiniETicaretBackend.API.props",
+      "PackagePath": "build\\MiniETicaretBackend.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MiniETicaretBackend.API.props",
+      "PackagePath": "buildMultiTargeting\\MiniETicaretBackend.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MiniETicaretBackend.API.props",
+      "PackagePath": "buildTransitive\\MiniETicaretBackend.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
